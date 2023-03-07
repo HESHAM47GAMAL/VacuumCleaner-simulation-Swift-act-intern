@@ -16,7 +16,10 @@
   <p> Fig 2</p>
   <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/img/flow.png" />
   </p>
-  
+  <p> fig 3 here switch mood during stability at same speed and switch from speed to another</p>
+  <p>
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/img/switch_mood.png" />
+  </p>
  ## IDE 
  <p> cKeil uVision5 </p>
  
@@ -32,5 +35,5 @@
  
  
  ## Demo 
- <p> ⚡when __power on__  </p>
+ <p> ⚡when <strong>power on</strong> start with 10 % of power and go to 50% power </p>
 
