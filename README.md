@@ -1,6 +1,6 @@
 # VacuumCleaner-simulation-Swift-act-intern
 - [Description](#Description)
-- [Context Diagram](#Context Diagram)
+- [Context Diagram](#Context-Diagram)
 - [IDE](#IDE)
 - [Demo](#Demo)
 
