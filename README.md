@@ -2,7 +2,7 @@
 - [Description](#Description)
 - [Context Diagram](#Context-Diagram)
 - [IDE](#IDE)
-- [c](#Control-Speed)
+- [Control Speed](#Control-Speed)
 - [Demo](#Demo)
 
 ## Description
@@ -18,7 +18,7 @@
   </p>
   
  ## IDE 
- <p> ⚡Keil uVision5 </p>
+ <p> cKeil uVision5 </p>
  
  ## Control Speed
  <p> ⚡here will explain how control speed to motors as power come from sin wave 👀always look at contex diagram <p/>
@@ -31,6 +31,6 @@
  
  
  
- ##Demo 
- <p>  </p>
+ ## Demo 
+ <p> ⚡when **power on**  </p>
 
