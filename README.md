@@ -24,7 +24,10 @@
  <p> ⚡here will explain how control speed to motors as power come from sin wave 👀always look at contex diagram <p/>
  <p> ⚡power come from AC power source go through zero crossing detector (ZCD) as work crystal </p>
  <p> ⚡A triac is a type of thyristor, a semiconductor component that is used for AC switching applications. It is a three-terminal device that is used to control the flow of electrical current in AC circuits</p>
- <p> ⚡</p>
+ <p> ⚡next image will visualize better and control of speed of motor depend on time of firing (give high to motor) and time that I have from 0 to 180 degree every degree take specific time and firing every specific time mean specific degree and at this degree motor will be high until 180 degree and will be high again with next fire </p>
+ <p>
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/img/control_speed_to%20_motor.png" />
+</p>
  
  
  
