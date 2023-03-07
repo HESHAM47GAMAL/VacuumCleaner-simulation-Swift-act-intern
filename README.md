@@ -10,6 +10,6 @@
 
 ## Context Diagram
 <p align="center" >
-  <img src="[https://user-images.githubusercontent.com/77234053/188354410-a7cd7405-99cf-484d-8b4d-b60ec8763541.gif](https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/img/Context%20Diagram.png)">
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/img/Context%20Diagram.png">
   </p>
 
