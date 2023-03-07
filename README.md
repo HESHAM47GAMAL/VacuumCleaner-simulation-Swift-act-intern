@@ -32,5 +32,5 @@
  
  
  ## Demo 
- <p> ⚡when **power on**  </p>
+ <p> ⚡when __power on__  </p>
 
