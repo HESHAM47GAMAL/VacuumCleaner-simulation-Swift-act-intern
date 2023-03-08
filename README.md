@@ -41,7 +41,7 @@
   <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/gif/video_p1.gif" />
   </p>
   
-  <p> ⚡when get target apply <strong>Harmonic reduction</strong> </p> 
+  <p> ⚡when get target apply <strong>Harmonic reduction</strong> for mid speed (90 degree) </p> 
   <p>
-  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/video/2023-03-08%2002-50-31%20(online-video-cutter.com).mp4" />
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/gif/video_p2.gif" />
   </p>
