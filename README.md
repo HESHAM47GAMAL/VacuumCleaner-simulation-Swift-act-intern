@@ -22,7 +22,7 @@
   </p>
   
  ## IDE 
- <p> cKeil uVision5 </p>
+ <p> Keil uVision5 </p>
  
  ## Control Speed
  <p> ⚡here will explain how control speed to motors as power come from sin wave 👀always look at contex diagram <p/>
@@ -37,4 +37,7 @@
  
  ## Demo 
  <p> ⚡when <strong>power on</strong> start with 10 % of power and go to 50% power </p>
+ <p>
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/video/2023-03-08%2002-50-31%20(online-video-cutter.com).mp4" />
+  </p>
 
