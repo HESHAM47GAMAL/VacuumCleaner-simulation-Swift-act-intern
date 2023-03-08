@@ -36,8 +36,12 @@
  
  
  ## Demo 
- <p> ⚡when <strong>power on</strong> start with 10 % of power and go to 50% power </p>
+ <p> ⚡when <strong>power on</strong> start with 10 % of power and go to 50% power  by applying <strong>Soft switch</strong> </p>
  <p>
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/gif/video_p1.gif" />
+  </p>
+  
+  <p> ⚡when get target apply <strong>Harmonic reduction</strong> </p> 
+  <p>
   <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/video/2023-03-08%2002-50-31%20(online-video-cutter.com).mp4" />
   </p>
-
