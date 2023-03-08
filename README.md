@@ -45,3 +45,13 @@
   <p>
   <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/gif/video_p2.gif" />
   </p>
+  
+   <p> ⚡when <strong>press plus button</strong> go from 50 % of power to 90% power  by applying <strong>Soft switch</strong> </p>
+ <p>
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/gif/video_p1.gif" />
+  </p>
+  
+   <p> ⚡when get target apply <strong>Harmonic reduction</strong> for high speed (10 degree) </p> 
+  <p>
+  <img src="https://github.com/HESHAM47GAMAL/VacuumCleaner-simulation-Swift-act-intern/blob/main/gif/video_p4.gif" />
+  </p>
